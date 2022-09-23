@@ -12,6 +12,3 @@ The Python client/wrapper for the API called <a href="https://github.com/man-c/p
 This is the result we want to generate:
 
 ![alt text](https://github.com/LiseReynaert/Cryptocurrency-candlestick/raw/main/Visualisation_bitcoin.png?raw=true)
-
-
-
